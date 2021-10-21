@@ -1,0 +1,17 @@
+Loneliness
+
+1.character-simple and not so attaractive
+2.Goal-play until complete dark
+3.rules-following the arrow keys,trying to touch the group
+4.Game adaptivity-size of the boxes were different
+5.chance vs skill-a boring game where we want to finish the game as soon as possible
+6.immediate feedback-no score the feedback was in the colour of the background
+7.story-loneliness
+
+1.character-men-7 monster-1
+2.Goal-stealing the diamond
+3.rules-following the correct path
+4.Game adaptivity-it will be more difficult by the levels
+5.chance vs skill-survive from the monster
+6.immediate feedback-if the monster catches the men the men will be eliminated
+7.story-the men has the diamond and the monster has stolen the diamond and now the men are going to take the diamond from the monster.
